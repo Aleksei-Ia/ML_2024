@@ -42,6 +42,7 @@ The inclusion of categorical features, especially processing the name column, pr
 
 A larger dataset is required to reduce the discrepancy in R^2 and MSE values between the train and test datasets for the Ridge regression.
 
+-------------------------------------------------------------------------------
 Выгруженный файл csv (1) включающий столбец selling_prise и predictions![Downloaded csv file (1) including the columns selling_prise and predictions](https://github.com/Aleksei-Ia/ML_2024/blob/1268575027471b9b8104cf56cf625eb9ff1bf4bd/Images/2024-12-04_201309.png)
 Загруженный файл csv (1) включающий столбец selling_prise![Uploaded csv file (1) including the column selling_prise](https://github.com/Aleksei-Ia/ML_2024/blob/1268575027471b9b8104cf56cf625eb9ff1bf4bd/Images/2024-12-04_201333.png)
 Загруженный файл csv (2) без столбца selling_prise![Uploaded csv file (2) without the column selling_price](https://github.com/Aleksei-Ia/ML_2024/blob/1268575027471b9b8104cf56cf625eb9ff1bf4bd/Images/2024-12-04_201348.png)
