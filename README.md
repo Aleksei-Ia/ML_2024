@@ -12,7 +12,7 @@
 9. Добавлены категориальные признаки, произведена дополнительная обработка признаков
 10. Закодированы категориалльные признаки методом One-Hot Encoding,
 11. Обучена модель Ridge регрессии на обработанном датафрейме с приминением кросс-валидации. Лучшее значение R2 для трейна: 0.7692926231567108; Значение R^2 для теста: 0.9104859007128742; Значение MSE для трейна: 28939334544.7721; Значение MSE для теста: 51455260402.4948,
-12. Построена кастомная метрика показывающая долю прогнозов, отличающихся от реальных цен на авто не более чем на 10% для всех обученных моделей. Самый высокий показатель у Ridge модели: на тесте: 36.40%; на трейне: 34.91%,
+12. Построена кастомная метрика показывающая долю прогнозов, отличающихся от реальных цен на авто не более чем на 10% для всех обученных моделей. Самый высокий показатель у Ridge модели: на тесте: 36.30%; на трейне: 35.03%,
 13. Реализован веб-сервис для применения построенной модели на новых данных при помощи FastAPI, скриншоты и адрес к скринкасту ниже,
 14. Записано предположение, что кот с последнего фото товарищ Sabrina Sadiekh (@sabrina_sadiekh).
 
@@ -34,7 +34,7 @@ the target, Lasso did not eliminate any features,
 9. Added categorical features, performed additional feature processing,
 10. Encoded categorical features using One-Hot Encoding,
 11. Trained a Ridge regression model on the processed dataframe with cross-validation. Best results: R^2 for train: 0.7692926231567108; R^2 for test: 0.9104859007128742; MSE for train: 28939334544.7721; MSE for test: 51455260402.4948,
-12. Built a custom metric showing the share of predictions differing from actual car prices by no more than 10% for all trained models. The highest score was achieved by the Ridge model: on test: 36.40%; on train: 34.91%,
+12. Built a custom metric showing the share of predictions differing from actual car prices by no more than 10% for all trained models. The highest score was achieved by the Ridge model: on test: 36.30%; on train: 35.03%,
 13. Developed a web service to apply the trained model to new data using FastAPI, screenshots, and a link to the screencast provided below,
 14. Recorded the hypothesis that the cat in the last photo belongs to Sabrina Sadiekh (@sabrina_sadiekh).
 
