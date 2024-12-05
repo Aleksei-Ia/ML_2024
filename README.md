@@ -20,7 +20,7 @@
 
 Не получилось уменьшить разницу в показаниях R^2 и MSE для тестовых и тренировочных данных Ridge регрессии.
 
-
+-------------------------------------------------------------------------------
 What was done and Results:
 1. Conducted simple EDA and feature processing, resulting in data being preliminarily prepared for training,
 2. Created visualizations: pair plots and Pearson correlation heatmaps. The graphs reveal relationships between the target variable and features: year, km_driven, engine, and max_power. Features mileage, torque, and seats show weaker relationships,
@@ -40,7 +40,7 @@ the target, Lasso did not eliminate any features,
 
 The inclusion of categorical features, especially processing the name column, provided the most significant boost.
 
-It was not possible to reduce the discrepancy in R^2 and MSE values between the train and test datasets for the Ridge regression.
+A larger dataset is required to reduce the discrepancy in R^2 and MSE values between the train and test datasets for the Ridge regression.
 
 Выгруженный файл csv (1) включающий столбец selling_prise и predictions![Downloaded csv file (1) including the columns selling_prise and predictions](https://github.com/Aleksei-Ia/ML_2024/blob/1268575027471b9b8104cf56cf625eb9ff1bf4bd/Images/2024-12-04_201309.png)
 Загруженный файл csv (1) включающий столбец selling_prise![Uploaded csv file (1) including the column selling_prise](https://github.com/Aleksei-Ia/ML_2024/blob/1268575027471b9b8104cf56cf625eb9ff1bf4bd/Images/2024-12-04_201333.png)
