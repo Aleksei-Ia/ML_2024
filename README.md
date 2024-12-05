@@ -4,5 +4,4 @@
 Выгруженный файл csv (2) включающий столбец predictions![](https://github.com/Aleksei-Ia/ML_2024/blob/1268575027471b9b8104cf56cf625eb9ff1bf4bd/Images/2024-12-04_201404.png)
 Терминал после загрузки сервиса![](https://github.com/Aleksei-Ia/ML_2024/blob/1268575027471b9b8104cf56cf625eb9ff1bf4bd/Images/2024-12-04_201446.png)
 Работа predict_csv при помощи FastAPI-Swagger_UI в браузере![](https://github.com/Aleksei-Ia/ML_2024/blob/1268575027471b9b8104cf56cf625eb9ff1bf4bd/Images/2024-12-04_201557.png)
-Работа predict_item (1) при помощи FastAPI-Swagger_UI в браузере![](https://github.com/Aleksei-Ia/ML_2024/blob/1268575027471b9b8104cf56cf625eb9ff1bf4bd/Images/2024-12-04_201917.png)
-Работа predict_item (2) при помощи FastAPI-Swagger_UI в браузере![](https://github.com/Aleksei-Ia/ML_2024/blob/1268575027471b9b8104cf56cf625eb9ff1bf4bd/Images/2024-12-04_202448.png)
+Работа predict_item при помощи FastAPI-Swagger_UI в браузере![](https://github.com/Aleksei-Ia/ML_2024/blob/1268575027471b9b8104cf56cf625eb9ff1bf4bd/Images/2024-12-04_201917.png)
